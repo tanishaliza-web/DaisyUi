@@ -3,4 +3,4 @@ This is my daisyUI bike project
 ## css 
 ## DaisyUI
 
-live link:
+live link:  https://tanishaliza-web.github.io/DaisyUi/gg 
